@@ -1,0 +1,10 @@
+.home .iconfont{
+    font-size: 20px;
+}
+.am-tab-bar{
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    height: 50px !important;
+    width: 100%;
+}
